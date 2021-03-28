@@ -1,0 +1,6 @@
+1. For data processing: inpainting to remove markers
+2. For groundtruth extraction from videos: detect markers and then extract ground truth
+
+Install:
+1. upzip C_and_Mex.zip
+2. unzip matlab.zip
