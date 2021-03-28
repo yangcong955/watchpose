@@ -1,1 +1,6 @@
 To extract camera pose in virtual environment, very useful if you don't have physical experimental conditions.
+
+Install:
+
+1. You need to download Blender (https://www.blender.org/)
+2. Checking and runing the embedded python source codes
