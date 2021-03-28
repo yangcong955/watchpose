@@ -42,3 +42,10 @@ If you use these works in your research, please cite:
 ### blender
 To extract camera pose in virtual environment, very useful if you don't have physical experimental conditions.
 
+### inpainting
+1. For image processing: inpainting to remove markers
+2. Tools for groundtruth extraction from videos: detect markers and then extract ground truth
+3. Other tools for converting among different types of pose format
+
+### 
+
