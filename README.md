@@ -47,5 +47,10 @@ To extract camera pose in virtual environment, very useful if you don't have phy
 2. Tools for groundtruth extraction from videos: detect markers and then extract ground truth
 3. Other tools for converting among different types of pose format
 
-### 
+### reprojection
+To reproject the estimated results onto the original image for visually checking the performance.
+
+### watchpose
+Source codes for real-time camera pose capturing with our proposed method.
+
 
