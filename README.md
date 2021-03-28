@@ -39,3 +39,6 @@ If you use these works in your research, please cite:
 
 ## Source Codes
 
+### blender
+To extract camera pose in virtual environment, very useful if you don't have physical experimental conditions.
+
