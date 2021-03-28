@@ -1,0 +1,4 @@
+1. Install ARToolKits5
+2. Copy bin/* into ARToolKits5/bin
+3. Copy WatchPost/* into ARToolKits5/watchpose
+4. Matlab is also required for running WatchPose application
